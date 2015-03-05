@@ -7,8 +7,8 @@ h1 {color:black;
 	border-width:3.5px;
 	border-radius:7px;
 	border-color:#9933cc;
-	width:750px;
-	font-family:NanumGothic;}
+	width:300px;
+	font-family:Garuda;}
 
 a {text-decoration:none;
 	color:grey;}
@@ -18,3 +18,12 @@ a:hover {font-weight:bold;
 	font-size:20px;}
 
 th {width:300px;}
+
+.Citation {color:grey;}
+
+.espace {font-size:14px;}
+
+#Farid {font-size: 14px;}
+
+.Citation2 {font-size: 14px;
+		color:grey;}
